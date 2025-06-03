@@ -41,6 +41,9 @@ wp-config.php
 # uncomment the next line
 #/wp-content/plugins
 
+# 워드 엑셀 임시 파일 무시
+/~$*
+
 # All themes
 #
 # Note: If you wish to whitelist themes,
